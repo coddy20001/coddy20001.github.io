@@ -2,7 +2,7 @@ p {
 	/*Можно менять*/
 	font-size: 32px;
 	/*Можно менять*/
-	color: orange;
+	color: black;
 }
 
 main {
@@ -20,7 +20,7 @@ main {
 
 body {
 	/*Можно менять*/
-	background-color: #fff5ea; 
+	background-color: 223; 
 	/*Ничего не трогаем*/
 	margin: 0;
 }
@@ -36,7 +36,7 @@ h1 {
 	/*Можно менять*/
 	font-size: 60px;
 	/*Можно менять*/
-	color: orange;
+	color: grey;
 	/*Ничего не трогаем*/
 	text-align: center;
 	/*Ничего не трогаем*/
